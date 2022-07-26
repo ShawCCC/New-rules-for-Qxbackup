@@ -1,0 +1,25 @@
+# > DisneyPlus
+USER-AGENT,Disney+*,DisneyPlus
+HOST-SUFFIX,disney-plus.net,DisneyPlus
+HOST-SUFFIX,disneyplus.com,DisneyPlus
+HOST-SUFFIX,disneystreaming.com,DisneyPlus
+HOST-SUFFIX,dssott.com,DisneyPlus
+HOST-SUFFIX,bamgrid.com,DisneyPlus
+HOST-SUFFIX,braze.com,DisneyPlus
+HOST-SUFFIX,disneynow.com,DisneyPlus
+HOST-SUFFIX,optimizely.com,DisneyPlus
+HOST-SUFFIX,adobedtm.com,DisneyPlus
+HOST-SUFFIX,disneyjunior.com,DisneyPlus
+HOST,disney-plus.net,DisneyPlus
+HOST,disneyplus.com.ssl.sc.omtrdc.net,DisneyPlus
+HOST,dssott.com.akamaized.net,DisneyPlus
+HOST,cdn.registerdisney.go.com,DisneyPlus
+HOST,cws.conviva.com,DisneyPlus
+HOST,execute-api.us-east-1.amazonaws.com,DisneyPlus
+HOST,search-api-disney.bamgrid.com,DisneyPlus
+HOST,disney-portal.my.onetrust.com,DisneyPlus
+HOST,dssott.com.akamaized.net,DisneyPlus
+HOST,disneyplus.bn5x.net,DisneyPlus
+HOST,go-mpulse.net,DisneyPlus
+HOST,cws.conviva.com,DisneyPlus
+HOST,d9.flashtalking.com,DisneyPlus
