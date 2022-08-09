@@ -1,0 +1,21 @@
+# > bilibili 重定向
+HOST,api.biliapi.com,📽 国内视频
+HOST,api.biliapi.net,📽 国内视频
+HOST,api.bilibili.com,📽 国内视频
+HOST,app.biliapi.com,📽 国内视频
+HOST,app.biliapi.net,📽 国内视频
+HOST,app.bilibili.com,📽 国内视频
+HOST,grpc.biliapi.net,📽 国内视频
+HOST,m.bilibili.com,📽 国内视频
+HOST,upos-hz-mirrorakam.akamaized.net,📽 国内视频
+HOST,bilibili.com,📽 国内视频
+HOST-KEYWORD,cn-hk-eq-bcache-,📽 国内视频
+
+# > 爱奇艺 重定向
+HOST-SUFFIX,cache.video.iqiyi.com,📽 国内视频
+IP-CIDR,116.211.202.206/32,📽 国内视频
+IP-CIDR,116.211.202.216/32,📽 国内视频
+
+# > 芒果TV 重定向
+HOST-SUFFIX,api.mgtv.com,📽 国内视频
+HOST-SUFFIX,mobileso.bz.mgtv.com,📽 国内视频
